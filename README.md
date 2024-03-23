@@ -5,7 +5,6 @@ This will be a 3-hour workshop that would give you an overview of how to do Web 
 - **Jupyter** (for Instructional Purposes only)
 - **Request**
 - **LXML**
-- **Scrapy**
 - **Selenium**
 
 For this activity, we will be Scraping Job Postings from [**MyNimo**](https://www.mynimo.com/). And just to be sure that we're clear to Scrape data from that website, here's the [Terms and Conditions of MyNimo](https://www.mynimo.com/terms-and-conditions).
